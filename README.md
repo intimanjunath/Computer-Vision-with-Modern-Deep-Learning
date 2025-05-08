@@ -19,7 +19,7 @@ All code is modular, optimized for Colab, and leverages lightweight pretrained m
 - 📓 [Colab 3: CLIP Zero-Shot + TFHub (Flowers)](https://colab.research.google.com/drive/1AmDiFtrEvnGbrI8E0sttueoeKXuTejpp?usp=sharing)
 - 📓 [Colab 4: MNIST + Fashion + CIFAR10 – EfficientNet, BiT, SOTA](https://colab.research.google.com/drive/1or31jYtPtWQtRTp7eTkkoFDImcjPaC5S?usp=sharing)
 - 📓 [Colab 5: X-ray + 3D CT Scan Classification](https://colab.research.google.com/drive/1hVZ6YwC-fhpQ_qB7ZLYXnUH4GhFOx9VY?usp=sharing)
-- 🎥 [YouTube Video Explanation](https://www.youtube.com/watch?v=your-video-link)
+- 🎥 [YouTube Video Explanation](https://youtu.be/xibFJBFtSFE)
 
 ---
 
