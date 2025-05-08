@@ -68,7 +68,3 @@ All code is modular, optimized for Colab, and leverages lightweight pretrained m
 - Encoders reused across tasks where possible (e.g. SupCon → classifier)
 - Efficient use of feature extractors for low-resource inference
 - Plots and evaluation included in each notebook
-
----
-
-## 📂 File Organization (Optional Repo Layout)
